@@ -1,0 +1,21 @@
+.row{
+  padding: 20px;
+
+}
+.mid{
+font-family: 'Viaoda Libre', cursive;
+font-size: 40px;
+text-align: center;
+color: red;
+}
+.bottom-left{
+  position: absolute;
+  bottom: -2px;
+  left: 130px;
+  background-color: lightslategray;
+  color: powderblue;
+  font-size: 18px;
+}
+.btn{
+color: red;
+}
